@@ -2802,8 +2802,8 @@ path-is-absolute@^1.0.0:
   resolved "https://registry.yarnpkg.com/path-is-absolute/-/path-is-absolute-1.0.1.tgz#174b9268735534ffbc7ace6bf53a5a9e1b5c5f5f"
 
 path-parse@^1.0.5:
-  version "1.0.5"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.5.tgz#3c1adf871ea9cd6c9431b6ea2bd74a0ff055c4c1"
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
 
 path-type@^1.0.0:
   version "1.1.0"
@@ -2931,9 +2931,9 @@ react-deep-force-update@^1.0.0:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/react-deep-force-update/-/react-deep-force-update-1.0.1.tgz#f911b5be1d2a6fe387507dd6e9a767aa2924b4c7"
 
-react-native-mentions@0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/react-native-mentions/-/react-native-mentions-0.0.1.tgz#3f50cebd34f848c5acfbbd196720a5cfbafe3019"
+react-native-mentions@0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/react-native-mentions/-/react-native-mentions-0.0.3.tgz#3dd3836ad9fa0049fbe38052508894ece666266e"
 
 react-native@0.40.0:
   version "0.40.0"
